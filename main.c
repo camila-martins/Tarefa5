@@ -31,7 +31,8 @@ int main (int argc , char **argv )
   }
     
   //Determinante
-  determinante(M, L, cont);
+  if(L==C){
+  determinante(M, L, cont);}
 
   
   //Solução através do Método de Jacobi
