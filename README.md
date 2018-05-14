@@ -1,5 +1,11 @@
 # Tarefa5
 Soluções matriciais, calculo de determinante de matriz quadrada, triangularização de matrizes, solução de sistema Método de Gauss com pivotamento, e solução de sistema através do método de Jacobi, dada uma precisão fornecida. Uso de Makefile criado, e biclioteca criada liblinalg.
+Foi utilizado duas matrizes, contidas nos arquivos matriz1T5.dat(matriz qudrada) e matriz2T5.dat. Para o cálculo do determinante foi utilizada apenas a matriz quadrada. 
 
-Foi utilizado dois arquivos.dat, 1 contendo uma matriz quadrada (matriz1T5.dat) e o outro contendo uma matriz 4x5(matriz2T5.dat). Com tais arquivos foi possível obter os resultados salvos no arquivo txt. 
+
+# Observação
+Está pendente 2 itens solicitados na tarefa 5, uma função para calcular a inversa da matriz e outra de multiplicar matrizes. Meus códigos estão apresentando erros nessas funções. Assim que solucionar o erro atualizo o código aqui e incluo as funções pendentes. 
+
+@thadeupenna
+
 
